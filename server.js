@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 
-// const api = require('./public/assets/js/index.js');
+const api = require('./routes/router');
 
 const PORT = 3001;
 
@@ -9,7 +9,7 @@ const app = express();
 
 app.use(express.json());
 app.use(express.static('public'));
-// app.use('/api', api);
+app.use('/api', api);
 
 // GET Route for notes page
 app.get('/notes', (req, res) =>
