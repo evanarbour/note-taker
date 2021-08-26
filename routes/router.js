@@ -5,6 +5,7 @@ const noteRouter = require('./notes');
 
 const app = express();
 
+// connects to /notes
 app.use('/notes', noteRouter);
 
 module.exports = app;
