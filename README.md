@@ -23,6 +23,8 @@ This project is licensed under the terms of the MIT license.
 
 ## Functionality
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://cryptic-fortress-99665.herokuapp.com)
+
 ![screenshot of application](./assets/images/note-taker.png)
 
 ## Questions
