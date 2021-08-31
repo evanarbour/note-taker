@@ -23,6 +23,7 @@ This project is licensed under the terms of the MIT license.
 
 ## Functionality
 
+Click the button below to use Note Taker:
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://cryptic-fortress-99665.herokuapp.com)
 
 ![screenshot of application](./assets/images/note-taker.png)
